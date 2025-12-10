@@ -22,8 +22,6 @@ npm install
 npm start
 ```
 
-Server now running at `ws://127.0.0.1:8080/slither`
-
 ## How To Connect
 
 Open Slither.io → press F12 → go to **Console** tab → paste this:
